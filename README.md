@@ -1,3 +1,8 @@
+<head>
+   <link rel="stylesheet"href="styles.css" />
+</head>
+
+
 [index.html](https://github.com/user-attachments/files/22006138/index.html)
 <body>
 
